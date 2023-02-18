@@ -1,0 +1,7 @@
+{
+    "chatgpt_access_token": "xxxx",
+    "chatgpt_paid": false,
+    "slack_bot_token": "xxxx",
+    "slack_signing_secret": "xxxx",
+    "port": "8085"
+}
