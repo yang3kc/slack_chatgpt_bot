@@ -35,4 +35,4 @@ def handle_mention(say, body):
 
 # Start your app
 if __name__ == "__main__":
-    app.start(port=config["port"])
+    app.start(port=int(config["port"]))
