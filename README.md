@@ -1,3 +1,8 @@
+# [This repo has been deprecated]
+
+You can now use the [offical ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) to build bots.
+Moreover, Slack has [announced](https://www.salesforce.com/news/stories/chatgpt-app-for-slack/) the offical ChatGPT app.
+
 # A simple ChatGPT bot for Slack
 
 ![slack_bot](https://user-images.githubusercontent.com/31357713/219899609-fbf0ddb4-e52e-4369-b5c1-8a60d420e0d5.gif)
